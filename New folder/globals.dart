@@ -1,0 +1,1 @@
+String example='hello';
